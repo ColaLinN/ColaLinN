@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+我是一个迷茫的旅人罢了
+
 <!--
 **ColaLinN/ColaLinN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

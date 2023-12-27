@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-我是一个迷茫的旅人罢了
+一个迷茫的旅人罢了
 
-I Love Computer Science, which changed my life.
-
-My Bilibili: https://www.bilibili.com/
-My Zhihu: https://www.zhihu.com/people/su-qiang-qiang-79
+I Like Computer Science, which changed my life.
 
 <!--
 **ColaLinN/ColaLinN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

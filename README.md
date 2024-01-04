@@ -2,7 +2,7 @@
 
 I Like Computer Science, which changed my life.
 
-Check out my blog: fenglyulin.com
+Check out my blog: [fenglyulin.com](fenglyulin.com)
 
 <!--
 **ColaLinN/ColaLinN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

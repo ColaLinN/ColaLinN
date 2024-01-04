@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-一个迷茫的旅人罢了
-
 I Like Computer Science, which changed my life.
+
+Check out my blog: fenglyulin.com
 
 <!--
 **ColaLinN/ColaLinN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

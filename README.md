@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I Like Computer Science, which changed my life.
+I like Computer Science, which changed my life.
 
 Check out my blog: [fenglyulin.com](https://fenglyulin.com)
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I like Computer Science, which changed my life.
+![LeetCode Stats](https://leetcard.jacoblin.cool/colalinn?theme=light&font=Sura&ext=heatmap&site=cn)
 
 Check out my blog: [fenglyulin.com](https://fenglyulin.com)
 

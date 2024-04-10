@@ -1,19 +1,44 @@
 ### Hi there 👋
 
 
-I am Fenglyu Lin.
 I am a Software Engineer in Shopee Singapore with a broad interest in Computer Science, including but not limited to Distributed System, DB, HPC, AI, AIGC, LLM and MLsys.
 
-😄 My Blog: [fenglyulin.com](https://fenglyulin.com/)  (Hopefully, I will have time to share more of my recent learning and thoughts.)
+😄 Blog: [fenglyulin.com](https://fenglyulin.com/)  (Hopefully, I will have time to share more of my recent learning and thoughts.)
 
-### My Reading/Learning
+### Project
 
-The computer science courses
+🔮 Some projects made during undergraduate
 
-### Misc
+1. I implemented [Advanced Encryption Standard (AES)](https://github.com/ColaLinN/AES-high-performance-implementation) with the high performance optimization based on T table, Java, 2019
+2. I built a [information hiding tool with GUI window](https://github.com/ColaLinN/information-hiding-tools-box), Matlab, 2019
+3. I wrote a game with the help of [EasyX Graphics Library](https://easyx.cn/) [Cola dream](https://github.com/ColaLinN/Cola_dream) [demo](https://www.bilibili.com/video/av25043844/),C, 2017
 
-🤔 My Leetcode Board
+### Learn/Read
+
+🏫 The computer science courses
+
+- Stanford [CS231n Deep Learning for Computer Vision](https://cs231n.stanford.edu/) by Fei-Fei Li et al
+- [Dive into Deep Learning](https://d2l.ai/) by Mu Li et al
+- MIT [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) by Anish, Jose, and Jon
+- MIT [6.824 Distributed System](https://pdos.csail.mit.edu/6.824/) by Frans Kaashoek and Robert Morris (I learned part of it) 
+- NUS [CS5223 Distributed System](https://nusmods.com/courses/CS5223/distributed-systems) [labs](https://github.com/nus-sys/cs5223-labs) by [Jialin Li](https://www.comp.nus.edu.sg/~lijl/)
+- NUS [CS5228 Knowledge Discovery and Data Mining](https://nusmods.com/courses/CS5228/knowledge-discovery-and-data-mining) by [Anthony](https://www.comp.nus.edu.sg/~atung/)
+
+🔖 The techical books
+
+- [Designing Data-Intensive Applications](https://dataintensive.net/) aka DDIA
+- [FENIX ARCHITECTURE](https://icyfenix.cn/introduction/about-book.html) Building a reliable large-scale distributed system
+- [System Design Interview](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) 
+
+### Miscellaneous
+
+🧗‍♂️ Leetcode
+
+
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/colalinn?theme=light&font=Sura&ext=heatmap&site=cn)
+
+
 
 
 
@@ -37,5 +62,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColaLinN)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
 

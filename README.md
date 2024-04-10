@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-🎓 I received bachelor's degrees from Wuhan University
 
-💻 I am a Software Engineer in Shopee Singapore with a broad interest in Computer Science, including but not limited to Distributed Systems, DB, HPC, AI, AIGC, LLM and MLsys.
+I am a Software Engineer in Shopee Singapore with a broad interest in Computer Science, including but not limited to Distributed Systems, DB, HPC, AI, AIGC, LLM and MLsys.
 
-👋 Blog: [fenglyulin.com](https://fenglyulin.com/)
+My Blog: [fenglyulin.com](https://fenglyulin.com/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/colalinn?theme=light&font=Sura&ext=heatmap&site=cn)
 

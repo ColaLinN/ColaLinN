@@ -1,10 +1,18 @@
 ### Hi there 👋
 
 
+I am Fenglyu Lin.
 I am a Software Engineer in Shopee Singapore with a broad interest in Computer Science, including but not limited to Distributed System, DB, HPC, AI, AIGC, LLM and MLsys.
 
-My Blog: [fenglyulin.com](https://fenglyulin.com/)
+😄 My Blog: [fenglyulin.com](https://fenglyulin.com/)  (Hopefully, I will have time to share more of my recent learning and thoughts.)
 
+### My Reading/Learning
+
+The computer science courses
+
+### Misc
+
+🤔 My Leetcode Board
 ![LeetCode Stats](https://leetcard.jacoblin.cool/colalinn?theme=light&font=Sura&ext=heatmap&site=cn)
 
 

@@ -9,9 +9,9 @@ I am a Software Engineer in Shopee Singapore with a broad interest in Computer S
 
 🔮 Some projects made during undergraduate
 
-1. I implemented [Advanced Encryption Standard (AES)](https://github.com/ColaLinN/AES-high-performance-implementation) with the high performance optimization based on T table, Java, 2019
-2. I built a [information hiding tool with GUI window](https://github.com/ColaLinN/information-hiding-tools-box), Matlab, 2019
-3. I wrote a game with the help of [EasyX Graphics Library](https://easyx.cn/) [Cola dream](https://github.com/ColaLinN/Cola_dream) [demo](https://www.bilibili.com/video/av25043844/),C, 2017
+1. [Implementation of Advanced Encryption Standard (AES)](https://github.com/ColaLinN/AES-high-performance-implementation) with the high performance optimization based on T table, Java, 2019
+2. [information hiding tool with GUI window](https://github.com/ColaLinN/information-hiding-tools-box), Matlab, 2019
+3. [2D Bullet hell game: Cola Dream](https://github.com/ColaLinN/Cola_dream) [demo](https://www.bilibili.com/video/av25043844/) based on [EasyX Graphics Library](https://easyx.cn/)  C, 2017
 
 ### Learn/Read
 

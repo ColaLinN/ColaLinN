@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-💬 I am a Software Engineer in Shopee Singapore with a broad interest in Computer Science, including but not limited to Distributed System, DB, HPC, AI, AIGC, LLM and MLsys.
+💬 I am a Software Engineer in Shopee Singapore with a broad interest in Computer Science, including but not limited to Distributed System, DB, HPC, AI, AIGC, LLM, and MLsys.
 
 😄 Blog: [fenglyulin.com](https://fenglyulin.com/)  (Hopefully, I will have time to share more of my recent learning and thoughts.)
 
@@ -9,7 +9,7 @@
 
 🔮 Some projects made during undergraduate
 
-1. [Implementation of Advanced Encryption Standard (AES)](https://github.com/ColaLinN/AES-high-performance-implementation) with the high performance optimization based on T table, Java, 2019
+1. [Implementation of Advanced Encryption Standard (AES)](https://github.com/ColaLinN/AES-high-performance-implementation) with the high-performance optimization based on T table, Java, 2019
 2. [information hiding tool with GUI window](https://github.com/ColaLinN/information-hiding-tools-box), Matlab, 2019
 3. [2D Bullet hell game: Cola Dream](https://github.com/ColaLinN/Cola_dream) [demo](https://www.bilibili.com/video/av25043844/) based on [EasyX Graphics Library](https://easyx.cn/),  C, 2018
 
@@ -26,7 +26,7 @@
 - NUS [CS5223 Distributed System](https://nusmods.com/courses/CS5223/distributed-systems) [labs](https://github.com/nus-sys/cs5223-labs) by [Jialin Li](https://www.comp.nus.edu.sg/~lijl/)
 - NUS [CS5228 Knowledge Discovery and Data Mining](https://nusmods.com/courses/CS5228/knowledge-discovery-and-data-mining) by [Anthony](https://www.comp.nus.edu.sg/~atung/)
 
-🔖 The techical books
+🔖 The technical books
 
 - [Designing Data-Intensive Applications](https://dataintensive.net/) aka DDIA
 - [FENIX ARCHITECTURE](https://icyfenix.cn/introduction/about-book.html) Building a reliable large-scale distributed system

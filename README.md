@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-💬 I am a Software Engineer in Shopee Singapore with a broad interest in Computer Science, including but not limited to Distributed System, DB, HPC, AI, AIGC, LLM, and MLsys.
+💬 I am a Software Engineer in Shopee Singapore with a broad interest in Computer Science, including but not limited to Distributed Systems, DB, HPC, AI, AIGC, LLM, and MLsys.
 
 - Fenglyu's Log: [fenglyulin.com](https://fenglyulin.com/) 
 - Fenglyu's Doc: [doc.fenglyulin.com](https://doc.fenglyulin.com/)

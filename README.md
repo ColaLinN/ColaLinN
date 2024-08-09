@@ -10,7 +10,7 @@
 
 🔮 Some projects made during undergraduate
 
-1. [SG PR Application Data App](sgpass.info), full-stack, solo project, July 2024
+1. [SG PR Application Data App](https://sgpass.info), full-stack, solo project, July 2024
 2. [Implementation of Advanced Encryption Standard (AES)](https://github.com/ColaLinN/AES-high-performance-implementation) with the high-performance optimization based on T table, Java, 2019
 3. [information hiding tool with GUI window](https://github.com/ColaLinN/information-hiding-tools-box), Matlab, 2019
 4. [2D Bullet hell game: Cola Dream](https://github.com/ColaLinN/Cola_dream) [demo](https://www.bilibili.com/video/av25043844/) based on [EasyX Graphics Library](https://easyx.cn/),  C, 2018

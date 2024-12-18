@@ -39,6 +39,11 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/colalinn?theme=light&font=Sura&ext=heatmap&site=cn) -->
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 

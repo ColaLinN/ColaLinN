@@ -42,11 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                1 hr 52 mins    ███████████████████░░░░░░   76.41 %
-YAML              8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-Python            8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-Other             7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-CSV               4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

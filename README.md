@@ -3,8 +3,7 @@
 
 💬 I am a Software Engineer in Shopee Singapore with a broad interest in Computer Science, including but not limited to Distributed Systems, DB, HPC, AI, AIGC, LLM, and MLsys.
 
-- My Tech Doc/Blog: [doc.fenglyulin.com](https://doc.fenglyulin.com/)
-- Previous Chinese Blog: [colalinn.github.io](https://colalinn.github.io/)
+[doc.fenglyulin.com](https://doc.fenglyulin.com/)
 
 ### Project
 

@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[doc.fenglyulin.com](https://doc.fenglyulin.com/)
+Check out my blog -> [doc.fenglyulin.com](https://doc.fenglyulin.com/)
 
-### Project
+### Side Project
 
 1. [🍀 SG PR Application Data App](https://sgpass.info), full-stack, solo project, July 2024 ~ Present
    - Sgpass Info is live now!!!

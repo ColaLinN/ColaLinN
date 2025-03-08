@@ -38,11 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                18 hrs 58 mins  ████████████▓░░░░░░░░░░░░   51.15 %
-Python            6 hrs 56 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
-Other             3 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-TypeScript        2 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-HTTP Request      1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Go                19 hrs 57 mins  ██████████████░░░░░░░░░░░   56.18 %
+Python            6 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
+Other             5 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+HTTP Request      1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Protocol Buffer   43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->

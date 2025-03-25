@@ -38,11 +38,11 @@ Check out my blog -> [doc.fenglyulin.com](https://doc.fenglyulin.com/)
 <!--START_SECTION:waka-->
 
 ```txt
-Go                18 hrs 20 mins  ████████████████▓░░░░░░░░   66.72 %
-Other             3 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-HTTP Request      1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-YAML              57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-Markdown          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Go                16 hrs 49 mins  ████████████████▒░░░░░░░░   65.18 %
+Other             3 hrs 58 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
+HTTP Request      1 hr 41 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+SQL               45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+YAML              44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->

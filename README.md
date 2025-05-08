@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out my blog -> [doc.fenglyulin.com](https://doc.fenglyulin.com/)
+Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://doc.fenglyulin.com/docs/practise-coding-record))
 
 ### Side Project
 

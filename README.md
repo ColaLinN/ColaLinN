@@ -37,11 +37,11 @@ Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://
 <!--START_SECTION:waka-->
 
 ```txt
-Other             4 hrs 40 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.33 %
-Go                4 hrs 9 mins    ██████░░░░░░░░░░░░░░░░░░░   24.30 %
-Python            1 hr 48 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
-HTTP Request      1 hr 41 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
-Text              1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Go                4 hrs 24 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
+Other             3 hrs 53 mins   ██████░░░░░░░░░░░░░░░░░░░   23.51 %
+HTTP Request      1 hr 50 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
+Python            1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+Markdown          1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
 ```
 
 <!--END_SECTION:waka-->

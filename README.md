@@ -37,11 +37,11 @@ Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://
 <!--START_SECTION:waka-->
 
 ```txt
-Other          8 hrs 32 mins   █████████████░░░░░░░░░░░░   52.34 %
-Go             3 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   19.49 %
-Python         1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-Markdown       1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-TypeScript     59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+Other          8 hrs 32 mins   ██████████████▒░░░░░░░░░░   56.83 %
+Go             3 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
+Markdown       59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+TypeScript     59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+Cheetah        28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 ```
 
 <!--END_SECTION:waka-->

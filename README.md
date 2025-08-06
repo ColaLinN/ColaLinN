@@ -37,11 +37,11 @@ Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://
 <!--START_SECTION:waka-->
 
 ```txt
-Other        4 hrs 55 mins   ███████████░░░░░░░░░░░░░░   43.81 %
-Python       4 hrs 10 mins   █████████▒░░░░░░░░░░░░░░░   37.10 %
-Markdown     1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
-JSON         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Git Config   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Python       6 hrs 36 mins   █████████████░░░░░░░░░░░░   51.69 %
+Other        4 hrs 40 mins   █████████░░░░░░░░░░░░░░░░   36.61 %
+Markdown     43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+JSON         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->

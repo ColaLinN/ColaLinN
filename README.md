@@ -37,11 +37,11 @@ Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://
 <!--START_SECTION:waka-->
 
 ```txt
-Go                3 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
-Other             3 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.71 %
-Python            3 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.13 %
-Markdown          1 hr 25 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-SQL               1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
+Go                4 hrs 39 mins   █████████░░░░░░░░░░░░░░░░   36.01 %
+Other             2 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   19.76 %
+Protocol Buffer   1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+SQL               1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+protobuf          41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
 ```
 
 <!--END_SECTION:waka-->

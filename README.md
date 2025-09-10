@@ -37,11 +37,11 @@ Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://
 <!--START_SECTION:waka-->
 
 ```txt
-Go                6 hrs 25 mins   ████████████░░░░░░░░░░░░░   48.25 %
-Other             3 hrs 17 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.70 %
-HTTP Request      1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-protobuf          39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-YAML              26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Go                5 hrs 22 mins   ███████████▓░░░░░░░░░░░░░   46.18 %
+Other             3 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   28.27 %
+HTTP Request      1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+YAML              24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+protobuf          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->

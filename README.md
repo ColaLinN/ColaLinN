@@ -37,11 +37,11 @@ Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://
 <!--START_SECTION:waka-->
 
 ```txt
-Other             1 hr 10 mins    ████████▒░░░░░░░░░░░░░░░░   33.51 %
-Protocol Buffer   1 hr 6 mins     ████████░░░░░░░░░░░░░░░░░   31.82 %
-protobuf          30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
-Go                21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-SQL               13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+Protocol Buffer   1 hr 52 mins    █████████▓░░░░░░░░░░░░░░░   38.61 %
+Other             1 hr 27 mins    ███████▒░░░░░░░░░░░░░░░░░   29.99 %
+protobuf          45 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
+Go                22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+SQL               13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
 ```
 
 <!--END_SECTION:waka-->

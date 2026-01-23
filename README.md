@@ -37,9 +37,9 @@ Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://
 <!--START_SECTION:waka-->
 
 ```txt
-Other             49 mins         ████████▒░░░░░░░░░░░░░░░░   33.76 %
-Markdown          39 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
-Go                38 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
+Other             49 mins         ████████▒░░░░░░░░░░░░░░░░   33.74 %
+Markdown          39 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
+Go                39 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.86 %
 HTTP Request      14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
 Protocol Buffer   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```

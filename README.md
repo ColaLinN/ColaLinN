@@ -37,9 +37,8 @@ Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   13 mins         ████████████████████████▓   98.25 %
+Markdown   13 mins         ████████████████████████▓   98.76 %
 Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Go         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->

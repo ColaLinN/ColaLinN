@@ -37,7 +37,11 @@ Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other          1 hr 21 mins    █████████████████▓░░░░░░░   70.48 %
+HTTP Request   23 mins         █████░░░░░░░░░░░░░░░░░░░░   19.93 %
+Go             9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+YAML           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->

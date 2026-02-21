@@ -37,11 +37,7 @@ Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://
 <!--START_SECTION:waka-->
 
 ```txt
-Other      51 mins               ████████████████████████▒   97.03 %
-Go         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-textmate   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-SQL        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

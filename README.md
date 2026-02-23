@@ -37,7 +37,11 @@ Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other            5 mins                ███████████▓░░░░░░░░░░░░░   47.09 %
+LLVM             3 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
+Graphviz (DOT)   3 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.40 %
+C                0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+C++              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->

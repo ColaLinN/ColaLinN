@@ -37,11 +37,11 @@ Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://
 <!--START_SECTION:waka-->
 
 ```txt
-Other            5 mins                ███████████▓░░░░░░░░░░░░░   47.09 %
-LLVM             3 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
-Graphviz (DOT)   3 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.40 %
-C                0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-C++              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Markdown         37 mins               ██████████░░░░░░░░░░░░░░░   39.86 %
+Makefile         15 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
+C++              10 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+C                8 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+Other            7 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
 ```
 
 <!--END_SECTION:waka-->

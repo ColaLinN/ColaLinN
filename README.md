@@ -37,11 +37,11 @@ Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         37 mins               ██████████░░░░░░░░░░░░░░░   39.86 %
-Makefile         15 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
-C++              10 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-C                8 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-Other            7 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+Python           53 mins               █████████░░░░░░░░░░░░░░░░   35.64 %
+Markdown         39 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.44 %
+Makefile         15 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
+C++              10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+C                8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
 ```
 
 <!--END_SECTION:waka-->

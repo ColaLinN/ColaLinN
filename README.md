@@ -37,7 +37,8 @@ Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://
 <!--START_SECTION:waka-->
 
 ```txt
-Other   3 hrs 6 mins          █████████████████████████   100.00 %
+Other   3 hrs 14 mins         █████████████████████████   99.90 %
+Text    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->

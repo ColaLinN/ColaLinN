@@ -37,7 +37,8 @@ Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://
 <!--START_SECTION:waka-->
 
 ```txt
-Other   0 secs                █████████████████████████   100.00 %
+Python   16 mins               ████████████████████░░░░░   80.06 %
+Other    4 mins                █████░░░░░░░░░░░░░░░░░░░░   19.94 %
 ```
 
 <!--END_SECTION:waka-->

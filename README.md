@@ -37,10 +37,9 @@ Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://
 <!--START_SECTION:waka-->
 
 ```txt
-Other      2 hrs 37 mins         ███████████████████████░░   91.40 %
-JSON       13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
-Markdown   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-LLVM       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other   2 hrs 30 mins         ███████████████████████▒░   93.78 %
+JSON    9 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+LLVM    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

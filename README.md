@@ -37,9 +37,11 @@ Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://
 <!--START_SECTION:waka-->
 
 ```txt
-Other   2 hrs 21 mins         ████████████████████▒░░░░   80.90 %
-SQL     24 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
-HTML    9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+Other         5 hrs 59 mins         ███████████████████░░░░░░   76.63 %
+Markdown      32 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+HTML          26 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+SQL           25 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+Image (svg)   14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
 
 <!--END_SECTION:waka-->

@@ -37,11 +37,11 @@ Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://
 <!--START_SECTION:waka-->
 
 ```txt
-Other        8 hrs 29 mins         ██████████████████░░░░░░░   72.04 %
-Markdown     1 hr 20 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-Python       1 hr 18 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-JavaScript   19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-TypeScript   12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Other        8 hrs 56 mins         ██████████████████░░░░░░░   72.57 %
+Markdown     1 hr 24 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+Python       1 hr 19 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+JavaScript   19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+TypeScript   12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->

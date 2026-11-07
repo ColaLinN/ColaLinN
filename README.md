@@ -35,15 +35,11 @@ Check out my blog -> [doc.fenglyulin.com]([https://doc.fenglyulin.com/](https://
 ![LeetCode Stats](https://leetcard.jacoblin.cool/colalinn?theme=light&font=Sura&ext=heatmap&site=cn) 
 
 
-<!--START_SECTION:waka-->
-
-```txt
+<!--START_SECTION:waka-->```txt
 Other      9 hrs 17 mins         ██████████████████████▓░░   91.24 %
 Markdown   41 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
 Python     11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-```
-
-<!--END_SECTION:waka-->
+``·<!--END_SECTION:waka-->
 
 -->
 
